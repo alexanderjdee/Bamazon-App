@@ -1,0 +1,23 @@
+{
+  "name": "bamazon-app",
+  "version": "1.0.0",
+  "description": "The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderjdee/Bamazon-App.git"
+  },
+  "author": "Alex Dee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderjdee/Bamazon-App/issues"
+  },
+  "homepage": "https://github.com/alexanderjdee/Bamazon-App#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  }
+}
