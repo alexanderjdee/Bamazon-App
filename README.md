@@ -1,3 +1,3 @@
 # Bamazon-App
 
-![](/images/picture1.png "How To")
+![](images/picture1.png "How To")
