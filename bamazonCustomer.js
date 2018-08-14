@@ -56,7 +56,7 @@ function runInquiry() {
                 var totalCost = result[0].price * answer.purchaseCount;
                 console.log("The total cost of your purchase is $" + totalCost.toFixed(2));
 
-                var newStockQuantity = result[0].stock_quantity - answer.purchaseCount;
+                var newStockQuantity = parseInt(result[0].stock_quantity) - parseInt(answer.purchaseCount);
                 var query = "Update products SET ? WHERE?";
                 connection.query(query, [{ stock_quantity: newStockQuantity }, {item_id: id}], function(error, result){
                    if(error) throw error;
