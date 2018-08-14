@@ -1,6 +1,6 @@
 # Bamazon-App
 
-Bamazon Customer
+Bamazon Customer<br />
 Bamazon is a digital marketplace application that displays to the customer the inventory and stock of items for purchase.
 
 1. First, enter the id of the product to purchase (Ex. 1 for the Bire TV)
