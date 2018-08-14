@@ -13,13 +13,14 @@ Bamazon is a digital marketplace application that displays to the customer the i
 
 ![](images/picture2.png "Updated inventory total")
 
+
 Bamazon Manager
 
-View low inventory
+View low inventory<br />
 ![](images/lowinventory.PNG "Low Inventory")
 
-Add Inventory
+Add Inventory<br />
 ![](images/addinventory.PNG "Add Inventory")
 
-Add New Item
+Add New Item<br />
 ![](images/additem.PNG "Add Item")
